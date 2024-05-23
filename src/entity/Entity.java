@@ -1,0 +1,11 @@
+package entity;
+
+import java.awt.image.BufferedImage;
+
+public class Entity {
+        public int x, y;
+        public int speed;
+
+        public BufferedImage u1,u2,l1,l2,d1,d2,r1,r2;
+        public String direction;
+}
