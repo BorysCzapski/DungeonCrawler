@@ -1,3 +1,6 @@
+package main;
+
+import main.GamePanel;
 
 import java.awt.Component;
 import javax.swing.JFrame;
