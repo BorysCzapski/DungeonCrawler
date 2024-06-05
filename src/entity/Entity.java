@@ -8,4 +8,7 @@ public class Entity {
 
         public BufferedImage u1,u2,l1,l2,d1,d2,r1,r2;
         public String direction;
+        
+        public int spriteCounter = 0;
+        public int spriteNum = 1;
 }
